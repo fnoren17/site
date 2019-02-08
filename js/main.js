@@ -190,6 +190,10 @@
     effect: 'fadeScale',
     keyboardNav: true,
   });
+  
 
-}(jQuery));
+}
+
+
+(jQuery));
 
